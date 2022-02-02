@@ -1,4 +1,4 @@
-### react-slick
+### fork of react-slick
 
 [![Backers on Open Collective](https://opencollective.com/react-slick/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-slick/sponsors/badge.svg)](#sponsors) [![Join the chat at https://gitter.im/akiran/react-slick](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/akiran/react-slick?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -11,13 +11,13 @@
 **npm**
 
 ```bash
-npm install react-slick --save
+npm install @ramirezcgn/react-slick --save
 ```
 
 **yarn**
 
 ```bash
-yarn add react-slick
+yarn add @ramirezcgn/react-slick
 ```
 
 **Also install slick-carousel for css and font**
@@ -100,7 +100,7 @@ For all available methods, go [here](https://react-slick.neostack.com/docs/api#m
 Want to run demos locally
 
 ```bash
-git clone https://github.com/akiran/react-slick
+git clone https://github.com/ramirezcgn/react-slick
 cd react-slick
 npm install
 npm start

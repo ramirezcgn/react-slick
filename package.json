@@ -1,7 +1,7 @@
 {
-  "name": "react-slick",
-  "version": "0.28.1",
-  "description": " React port of slick carousel",
+  "name": "@ramirezcgn/react-slick",
+  "version": "0.28.0",
+  "description": "Fork of React port of slick carousel",
   "main": "./lib",
   "files": [
     "dist",
@@ -21,10 +21,13 @@
     "precommit": "lint-staged"
   },
   "author": "Kiran Abburi",
+  "contributors": [
+    "Nicolas Ramirez <ramirezcgn@gmail.com> (https://github.com/ramirezcgn"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akiran/react-slick"
+    "url": "https://github.com/ramirezcgn/react-slick"
   },
   "keywords": [
     "slick",
@@ -118,7 +121,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/akiran/react-slick/issues"
+    "url": "https://github.com/ramirezcgn/react-slick/issues"
   },
   "homepage": "https://react-slick.neostack.com",
   "collective": {
